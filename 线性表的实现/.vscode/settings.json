@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "bitset": "cpp",
+        "filesystem": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "locale": "cpp",
+        "ostream": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp",
+        "sstream": "cpp"
+    }
+}
